@@ -83,15 +83,37 @@ sns.heatmap(data.corr(),annot=True)
 ```
 ## OUTPUT
 ### HEAD()
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/1.png)
+
 ### INFO()
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/2.png)
+
 ### DESCRIBE()
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/3.png)
+
 ### DATATYPE() 
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/4.png)
+
 ### ISNULL()
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/5.png)
+
 ### SCATTER PLOT
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/6.png)
+
 ### BARPLOT
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/7.png)
+
 ### SEGMENTATION
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/8.png)
+
 ### SUBPLOTS
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/9.png)
+
 ### CORRESSION
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/10.png)
+
 ### HEATMAP()
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/11.png)
+
 ## RESULT
 Hence The Performance of the Multivariate EDA on the given data set is verified.
