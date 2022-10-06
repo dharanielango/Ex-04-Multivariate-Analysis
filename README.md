@@ -103,17 +103,19 @@ sns.heatmap(data.corr(),annot=True)
 ### BARPLOT
 ![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/7.png)
 
-### SEGMENTATION
-![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/8.png)
 
-### SUBPLOTS
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/8.png)
+### SEGMENTATION
 ![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/9.png)
 
-### CORRESSION
+### SUBPLOTS
 ![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/10.png)
 
-### HEATMAP()
+### CORRESSION
 ![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/11.png)
+
+### HEATMAP()
+![O](https://github.com/dharanielango/Ex-04-Multivariate-Analysis/blob/main/12.png)
 
 ## RESULT
 Hence The Performance of the Multivariate EDA on the given data set is verified.
